@@ -1,5 +1,5 @@
 # Graph algoritms notebooks
 ___________________________
-## A bunch of graph algoritms implemented in Python. Designed to be viewed in GitHub.
+### A bunch of graph algoritms implemented in Python. Designed to be viewed in GitHub.
 ___________________________
-### - Breadth-first search
+#### * __Breadth-first search__
